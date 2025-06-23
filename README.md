@@ -4,6 +4,7 @@
 
 This notebook demonstrates how to fine-tune the BERT model for a Named Entity Recognition (NER) task using the CoNLL-2003 dataset. The process includes data preprocessing, tokenization, model training, and evaluation.
 
+You can check a demo video from this link : https://drive.google.com/file/d/1juyUEh9rOOAgz20VGWWEB1mqU73d82DZ/view?usp=sharing
 ## Dataset
 
 The dataset used is **CoNLL-2003**, which contains annotated text for named entities such as:
